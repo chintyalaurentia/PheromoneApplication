@@ -1,5 +1,7 @@
 # ArtificialIntelligenceProject
-Artificial Intelligence final project using Python and Kivy 
+Artificial Intelligence final project using Python and Kivy
+
+This program are made to determine cheapest flight ticket  using pheromone application
 
 **Group Members:** 
  * Chintya Laurentia I - C14200052
