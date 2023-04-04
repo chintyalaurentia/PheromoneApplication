@@ -1,4 +1,4 @@
-# ProjectKecerdasanBuatan
+# ArtificialIntelligenceProject
 Artificial Intelligence final project using Python and Kivy 
 
 **Group Members:** 
